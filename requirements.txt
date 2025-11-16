@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+requests
+aioredis
+asyncpg
+PyPDF2
+python-dotenv
